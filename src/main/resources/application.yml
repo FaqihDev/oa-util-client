@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: oa-util-client
+
+# Default configuration
+server:
+  port: 8080
+
+# Configuration for development and staging profiles
+---
+#spring:
+#  profiles: dev,stage
+#server:
+#  port: 8081
+#logging:
+#  level:
+#    root: DEBUG
+
+# Configuration for production profile
+---
+#spring:
+#  profiles: prod
+#server:
+#  port: 8082
+#logging:
+#  level:
+#    root: WARN

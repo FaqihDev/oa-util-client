@@ -23,8 +23,8 @@
 	<distributionManagement>
 		<repository>
 			<id>github</id>
-			<name>GitHub FaqihDev Apache Maven Packages</name>
-			<url>https://github.com/FaqihDev/oa-util-client</url>
+			<name>GitHub Faqih Dev Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/FaqihDev/oa-util-client</url>
 		</repository>
 	</distributionManagement>
 

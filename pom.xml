@@ -20,6 +20,13 @@
 		<spring-cloud.version>2023.0.3</spring-cloud.version>
 	</properties>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub FaqihDev Apache Maven Packages</name>
+			<url>https://github.com/FaqihDev/oa-util-client</url>
+		</repository>
+	</distributionManagement>
 
 	<dependencies>
 		<dependency>
